@@ -3,21 +3,24 @@ body{
 }
 .half-weight{
     width: 25%;
-    padding-top: 5%;
+    padding-top: 10%;
 }
 
 .half-weight img{
-    width: 109%;
+    width: 100%;
 }
 
 .intro {
     margin-left: 24%;
     float: left;
+    padding-top: 9%;
 }
 
 .profile-image{
     margin-right: 24%;
     float: right;
+    padding-top: 2%;
+    padding-left: 2%;
 }
 a{
     text-decoration: none;
@@ -29,12 +32,9 @@ a{
     color: white;
 }
 .topbanner{
-    background-image: url(images/header-bg.png);
-    background-repeat: no-repeat;
+    background-image: url(images/biography-bg)
     }
-    section{
-        he
-    }
+    
     .intro h2{
         font-size: 48px;
         margin: 0%;
@@ -45,6 +45,37 @@ a{
         color: brown;
         margin: 0%;
     }
+<<<<<<< HEAD
     .intro{
         margin-top: 25px;
     }
+=======
+    .linkbutton{
+        font-size: 25px;
+    }
+    section{
+        height: 500px;
+    }
+    .w-image{
+        float: left;
+        padding-left: 17%;
+        margin: -05%
+        ;
+      
+    }
+    .w-intro{
+        float: right;
+        padding-right: 28%;
+        margin-right: 8%;
+        margin-top: -1%;
+    }
+.w-intro h1{
+    font-size: 39px;
+}
+
+
+    
+
+
+    
+>>>>>>> 348c2c84a3816d431c204346bc584bd8320019d3
